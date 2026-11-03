@@ -1,0 +1,5 @@
+-- Configuração Git
+git config --global user.name eduardatec98
+git config --global user.email eduarda.tec98@gmail.com
+
+cd senhas-app
